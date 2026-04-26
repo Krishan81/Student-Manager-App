@@ -1,5 +1,5 @@
 # Student-Manager-App
-A simple command-line application built using Python to manage student records. It allows users to add students, view all records, and check results based on marks in an easy and interactive way.
+The Student Manager App is a simple command-line program in Python used to manage student records efficiently. It allows users to add student details, view all records, and check pass/fail results based on marks. The project uses basic Python concepts like dictionaries, loops, and conditionals, and provides an easy-to-use menu-driven interface.
 
 # Features
 ➕ Add student details (Name, Roll Number, Marks)
